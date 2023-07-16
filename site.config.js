@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "nimbasms",
-    image: "/avatar.svg",
+    image: "/apple-touch-icon.png",
     role: "opensource developer",
     bio: "Nimba SMS.",
     email: "morethanmin.dev@gmail.com",
