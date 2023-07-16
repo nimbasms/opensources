@@ -5,7 +5,7 @@ const CONFIG = {
     image: "/apple-touch-icon.png",
     role: "opensource developer",
     bio: "Nimba SMS.",
-    email: "morethanmin.dev@gmail.com",
+    email: "open-source@nimbasms.com",
     linkedin: "nimbasms",
     github: "nimbasms",
     instagram: "",
