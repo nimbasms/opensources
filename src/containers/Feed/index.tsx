@@ -49,7 +49,6 @@ const Feed: React.FC<Props> = ({ categories, tags, posts }) => {
           height: "calc(100vh - 73px)",
         }}
       >
-        <Cards.ServiceCard />
         <Cards.ContactCard />
         <Footer className="pt-4" />
       </div>
