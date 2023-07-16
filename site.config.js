@@ -34,7 +34,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: '265ecde260b74aa2b0f4896519461811',
+    pageId: process.env.NOTION_PAGE_ID,
   },
 
   // plugin configuration (optional)
@@ -65,7 +65,7 @@ const CONFIG = {
       appid: "", // Embed Code -> data-app-id value
     },
   },
-  isProd: process.env.VERCEL_ENV === "production", // 
+  isProd: process.env.VERCEL_ENV === "production",
 }
 
 module.exports = { CONFIG }
