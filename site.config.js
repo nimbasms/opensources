@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "Nimba SMS",
     description: "welcome to nimbasms!",
-    theme: "dark", // ['light', 'dark', 'auto']
+    theme: "light", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
