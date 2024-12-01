@@ -12,24 +12,24 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `nimbasms`,
+      name: `Nimba SMS`,
       href: "https://github.com/nimbasms/nimbasms",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "nimbasms",
+    title: "Nimba SMS",
     description: "welcome to nimbasms!",
-    theme: "auto", // ['light', 'dark', 'auto']
+    theme: "dark", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
   link: "https://nimbasms.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: "fr-Fr", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Opensource", "nimbasms"],
+    keywords: ["Blog", "Website", "Opensource", "nimbasms", "blog nimba sms"],
   },
 
   // notion configuration (required)
